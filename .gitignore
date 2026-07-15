@@ -1,1 +1,7 @@
 /target
+
+# IDE, local configuration and logs
+.idea/
+.vscode/
+.env
+*.log
